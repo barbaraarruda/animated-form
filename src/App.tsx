@@ -1,4 +1,5 @@
 import './App.scss'
+import { ArrowIconLogin } from './components/arrow-iconlogin'
 import { Logo } from './components/logo'
 
 function App() {
@@ -11,7 +12,16 @@ function App() {
           <a>Como funciona</a>
           <a>Contato</a>
         </nav>
-        <button>Login</button>
+        <button>
+          <div className='btn-face-white'>
+            Login
+            <ArrowIconLogin />
+          </div>
+          <div className='btn-face-pink'>
+            Login
+            <ArrowIconLogin />
+          </div>
+        </button>
       </header>
     </main>
   )
