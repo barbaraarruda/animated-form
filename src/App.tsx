@@ -23,6 +23,25 @@ function App() {
           </div>
         </button>
       </header>
+      <div className="content-container">
+        <div className="heading-container">
+          <h2>Vamos gerenciar o</h2>
+          <h2>seu casamento.</h2>
+        </div>
+        
+        <div className="bubble bride">
+          👰
+        </div>
+        <div className="bubble ring">
+          💍  
+        </div>
+        <div className="bubble calendar">
+          📆
+        </div>
+        <div className="bubble heart">
+          ❤️
+        </div>
+      </div>
     </main>
   )
 }
