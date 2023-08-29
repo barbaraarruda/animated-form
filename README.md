@@ -1,8 +1,24 @@
 # Animated Form
+Projeto prático de Desenvolvimento Front-End para estudos sobre o React. Baseado em projeto do canal no YouTube da desenvolvedora Fernanda Kipper. | Practical Front-End Development project for studies on React. Based on a project from the YouTube channel by developer Fernanda Kipper. | 用於研究 React 的實用前端開發項目。基於開發者 Fernanda Kipper 的 YouTube 頻道項目。
+  
+## 📋 Materiais e métodos utilizados:
+1. HTML, CSS, Sass, JavaScript, React.
+2. Sistema Operacional Linux Mint Mate 21 "Victoria";
+3. Visual Studio Code.
+
+<div class="row">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" height="40px" />
+<hr>
 
 This repository contains a responsive animated form built using React.js and the Sass preprocessor for CSS. The design for this form was inspired by a layout I found on [Dribbble](https://dribbble.com/): [Summerly Media Website design for the SMM agency](https://dribbble.com/shots/21459039-Summerly-media-Website-design-for-the-SMM-agency).
 
-## Installation
+### 🔧Instalação
 
 To run this project locally, please follow these steps:
 
