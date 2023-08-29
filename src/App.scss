@@ -16,7 +16,7 @@
   100% {
     transform: translateX(0);
     color: white;
-    background:linear-gradient(90deg, rgba(215,73,230,1) 0%, rgba(205,130,185,1) 44%, rgba(204,204,146,1) 100%);
+    background:linear-gradient(90deg, rgba(215,73,230,1) 0%, rgba(205,130,185,1) 44%, rgb(228, 202, 235) 100%);
   }
 }
   
@@ -120,21 +120,25 @@ main {
     position: relative;
     flex-grow: 1;
     width: 100%;
+    padding: 32px;
 
     .heading-container {
       display: flex;
       justify-content: center;
       flex-direction: column;
-      width: 100%;
+      width: 50%;
+      align-items: flex-end;
 
-      :first-child{
-        align-self: flex-start;
-      }
+      
 
       h2 {
-        font-size: 52px;
-        align-self: flex-start;
+        font-size: 60px;
+        
         font-weight: 800;
+
+        &:first-of-type {
+          align-self: flex-start;
+        }
       }
     }
   
